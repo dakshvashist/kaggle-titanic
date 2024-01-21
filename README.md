@@ -22,5 +22,6 @@ My first Kaggle submission
 </tr>
 </table>
 
+
 Comments
 <li> Attempt 1: I followed along with this YouTube tutorial by Aladdin Persson: <a href=https://www.youtube.com/watch?v=pUSi5xexT4Q> Link </a>
